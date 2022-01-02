@@ -9,11 +9,11 @@
 
 - 👨‍💻 All of my projects are available at [github.com/dipanshug124](github.com/dipanshug124)
 
-- 📝 I regularly write articles on [https://dev.to/dipanshug124](https://dev.to/dipanshug124)
+- 📝 I regularly write articles on [https://dev.to/dipanshug124](DEV)
 
 - 💬 Ask me about **MERN Stack, Python, Javascript**
 
-- 📫 How to reach me **dipanshug124@gmail.com**
+- 📫 Reach me through **dipanshug124@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1UNEN4yyneGCZyDxYMUVbYaRygzfk1beO/view?usp=sharing](https://drive.google.com/file/d/1UNEN4yyneGCZyDxYMUVbYaRygzfk1beO/view?usp=sharing)
 

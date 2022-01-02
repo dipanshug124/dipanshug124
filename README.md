@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [github.com/dipanshug124](github.com/dipanshug124)
 
-- 📝 I regularly write articles on [DEV](https://dev.to/dipanshug124){:target="_blank"}
+- 📝 I regularly write articles on [DEV](https://dev.to/dipanshug124){:target="\_blank"}
 
 - 💬 Ask me about **MERN Stack, Python, Javascript**
 

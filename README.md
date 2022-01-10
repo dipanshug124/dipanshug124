@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dipanshug124&label=Profile%20views&color=0e75b6&style=flat" alt="dipanshug124" /> </p>
 
-<p align="left"> <a href="https://twitter.com/dipanshug11" target="blank"><img src="https://img.shields.io/twitter/follow/dipanshug124?logo=twitter&style=for-the-badge" alt="dipanshug11" /></a> </p>
+<p align="left"> <a href="https://twitter.com/dipanshug124" target="blank"><img src="https://img.shields.io/twitter/follow/dipanshug124?logo=twitter&style=for-the-badge" alt="dipanshug11" /></a> </p>
 
 - 🌱 I’m currently learning **TypeScript, Frappe, Rasa**
 

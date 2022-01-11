@@ -9,8 +9,6 @@
 
 - 👨‍💻 All of my projects are available at [Github](github.com/dipanshug124)
 
-- 📝 I regularly write articles on [DEV](https://dev.to/dipanshug124)
-
 - 💬 Ask me about **MERN Stack, Python, Javascript**
 
 - 📫 Reach me through **dipanshug124@gmail.com**
@@ -19,7 +17,6 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/dipanshug124" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="dipanshug124" height="30" width="40" /></a>
 <a href="https://twitter.com/dipanshug124" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dipanshug11" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/dipanshug124" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dipanshug124" height="30" width="40" /></a>
 </p>
